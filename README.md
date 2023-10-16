@@ -1,4 +1,4 @@
-![image](https://github.com/CountingCrows/Sales_Data_Analysis_Project/assets/85608120/8b6be000-dd85-430d-b148-715b309127a0)# Sales_Data_Analysis_Project
+# Sales_Data_Analysis_Project
 This project is a set of real world data science practice from merging the data, data cleaning, EDA, to data visualization using python. We are going to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 ## Dataset
